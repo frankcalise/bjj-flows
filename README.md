@@ -21,3 +21,5 @@ A repo serving as my BJJ lesson log book and flowcharts around crafting my game.
       classDef _system fill:#FFFFFF,color:#000,stroke:#FFFFFF80,stroke-width:4px
       classDef _pass fill:#FFFFFF,color:#000,stroke:#FFFFFF80,stroke-width:4px
 ```
+
+More syntax notes: https://mermaid.js.org/syntax/flowchart.html
