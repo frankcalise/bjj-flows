@@ -7,7 +7,12 @@
       %% BEGIN Half Guard
       %%
 
-      HG(Half Guard):::_position;
+      HG(Half Guard):::_position--> DHG;
+      DHG(Deep Half Guard):::_position--> DHGS & DHGU;
+      DHGS(Out to the Side):::_position--> OTS[[Mike's HG to Side Transition]];
+      DHGU(Under Opponent):::_position--> U1 & U2;
+      U1[/Opponent Leaning Forward/]:::_oppo;
+      U2[/Opponent Leaning Back/]:::_oppo;
 
       %%
       %% END Half Guard
